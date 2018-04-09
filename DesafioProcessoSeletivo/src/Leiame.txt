@@ -1,0 +1,11 @@
+Estrutura:
+Foi feito um programa em Java para se calcular o dígito verificador para uma série de matrículas da empresa XPTO.
+Foi utilizado a biblioteca Commons Lang do apache,pois possuia todas as funcionalidades que o programa precisava.
+
+O Projeto foi dividido em pastas pra melhor entendimento e clareza. Ele possui as seguintes pastas:
+•	Projeto: é a pasta onde se encontra as funções de calcular o digito verificador e verificar o digito.
+•	Programa: é a pasta onde possui a main e onde foi feito a leitura e criação de arquivos txt.
+•	Arquivos: é a pasta onde se localiza todos os arquivos txt.
+
+Solução:
+
